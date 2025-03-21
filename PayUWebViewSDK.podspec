@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'WebViewSDK'
+  s.name             = 'PayUWebViewSDK'
   s.version          = '0.1.0'
   s.summary          = 'PayU WebView SDK for seamless payment integrations'
   s.homepage         = 'https://github.com/aryanjaiswal3038/PayUWebView'
