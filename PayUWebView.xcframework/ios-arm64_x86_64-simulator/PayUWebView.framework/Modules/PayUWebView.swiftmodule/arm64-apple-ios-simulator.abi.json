@@ -1,0 +1,66 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "PayUWebView",
+    "printedName": "PayUWebView",
+    "children": [
+      {
+        "kind": "TypeDecl",
+        "name": "MyAwesomeSDK",
+        "printedName": "MyAwesomeSDK",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "greet",
+            "printedName": "greet()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11PayUWebView12MyAwesomeSDKC5greetSSyFZ",
+            "mangledName": "$s11PayUWebView12MyAwesomeSDKC5greetSSyFZ",
+            "moduleName": "PayUWebView",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:11PayUWebView12MyAwesomeSDKC",
+        "mangledName": "$s11PayUWebView12MyAwesomeSDKC",
+        "moduleName": "PayUWebView",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}
